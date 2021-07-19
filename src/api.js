@@ -1,5 +1,5 @@
-// const url = "https://api.coincap.io/v2";
-const url = "http://localhost:8080/v2";
+const url = "https://api.coincap.io/v2";
+// const url = "http://localhost:8080/v2";
 
 // function getAssets() {
 //   return fetch(`${url}/assets`)
